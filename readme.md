@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan138&label=Profile%20views&color=0e75b6&style=flat" alt="aryan138" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan138" alt="aryan138" /></a> </p>
-
 - 🔭 I’m currently working on [ProfitX](https://github.com/Aryankaushal82/BillEasy.git)
 
 - 🌱 I’m currently learning **Backend**
