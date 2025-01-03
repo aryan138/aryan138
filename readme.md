@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript DSA React**
 
-- 📫 How to reach me **apathania206@gmailcom**
+- 📫 How to reach me **apathania206@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
